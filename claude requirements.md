@@ -79,7 +79,7 @@ Build a modern, mobile-friendly vacation rental website for **Sterling Breeze Co
 
 ```html
 <iframe
-  src="https://calendar.google.com/calendar/embed?src=ksgab1lc8e6lqg9qgc59mt7bh16n7igi%40import.calendar.google.com&ctz=America%2FNew_York"
+  src="https://www.vrbo.com/icalendar/e093697f12a04b218d199a606fcd2d3b.ics?nonTentative&includeTentative=true"
   style="border: 0"
   width="800"
   height="600"
